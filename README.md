@@ -60,9 +60,11 @@
 # echo "[📡 Monitorando o invisível...]"
 > Conectando containers. Analisando logs. Invocando workflows noturnos...
 
-[🖼️ loading gif: ./assets/hack_flow.gif]
-```
 
+```
+<p align="center">
+  <img src="./assets/hack_flow.gif" >
+</p>
 ---
 
 ```bash
@@ -72,9 +74,10 @@
 Site (em breve): bruxoanony.dev  
 Mensagens: via invocação direta.  
 
-[🖼️ loading gif: ./assets/terminal_mistico.gif]
 ```
-
+<p align="center">
+  <img src="./assets/terminal_mistico.gif" >
+</p>
 
 
 ```
