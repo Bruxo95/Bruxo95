@@ -1,6 +1,6 @@
                                                                              
                                                                                                     
-  🔧 Bruxo DevOps / Prompt Engineer 🔮
+  #🔧 Bruxo DevOps / Prompt Engineer 🔮
 ```bash
 # cat /home/bruxo/profile.txt
 
