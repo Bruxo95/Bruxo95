@@ -6,8 +6,8 @@
 
                                                    ✴️ Bruxo 🧙‍♂️  ✴️
 
-  🧙‍♂️ Conjurando código entre as sombras e a arte do DevOps.<br>
-  📜 Prompts encantados, pipelines ritualísticos e automações arcanas.<br>
+  🧙‍♂️ Conjurando código entre as sombras e a arte do DevOps.
+  📜 Prompts encantados, pipelines ritualísticos e automações arcanas.
   🔐 Sob o manto do anonimato, a magia é o código.
 
   "Hacker de Processos · DevOps Alquimista · Autômato da Nova Era"
