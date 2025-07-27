@@ -49,9 +49,11 @@
 🧠 IA:         OpenAI · LangChain · RAG · pgvector · Prompt Engineering
 🧰 Front:      Tailwind · React · Astro · JS para integração de painéis
 
-[🖼️ loading gif: ./assets/stacks.gif]
-```
 
+```
+<p align="center">
+  <img src="./assets/stacks.gif" >
+</p>
 ---
 
 ```bash
