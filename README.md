@@ -29,10 +29,10 @@
 🔹 Criação de Personagens Virtuais Inteligentes com memória
 🔹 Estudante de Cibersegurança, Reversing & Automações silenciosas
 
-[loading gif: ./assets/sobre_mim.gif]
+                                                    ![Descrição do GIF](./assets/sobre_mim.gif)
 
 ```
-
+                                                    ![Descrição do GIF](./assets/sobre_mim.gif)
 
 ---
 
