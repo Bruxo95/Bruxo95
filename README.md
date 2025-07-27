@@ -136,7 +136,7 @@ Mensagens: via invocação direta.
 
 ```
 <p align="center">
-  <img src="./assets/fetchpik.com-iconscout-YU5Txo26h7.gif" >
+  <img src="./assets/teste.gif" >
 </p>
 
 ---
