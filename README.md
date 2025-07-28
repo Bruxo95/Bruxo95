@@ -50,7 +50,7 @@
 
 ```
 <p align="center">
-  <img src="./assets/stacks.gif" >
+  <img src="./assets/teste.gif" >
 </p>
 ---
 
