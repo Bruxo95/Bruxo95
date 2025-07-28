@@ -1,145 +1,91 @@
-                                                                             
-                                                                                                    
-  # 🔧 Bruxo DevOps / Prompt Engineer 🔮
+<h1 align="center">🔧 Bruxo DevOps / Prompt Engineer 🔮</h1>
+
+<p align="center"><em>"Código é magia. Terminal é altar."</em></p>
+
+---
+
 ```bash
 # cat /home/bruxo/profile.txt
 
-                                                   ✴️ Bruxo 🧙‍♂️  ✴️
+                                                ✴️ Bruxo Anony 🧙‍♂️ ✴️
 
-  🧙‍♂️ Conjurando código entre as sombras e a arte do DevOps.
-  📜 Prompts encantados, pipelines ritualísticos e automações arcanas.
-  🔐 Sob o manto do anonimato, a magia é o código.
+🧙‍♂️ Conjurando scripts entre as sombras do terminal.
+📜 Prompts encantados, pipelines ritualísticos e automações arcanas.
+🔐 Sob o manto do anonimato, a magia é o código.
 
-  "Hacker de Processos · DevOps Alquimista · Autômato da Nova Era"
+"Hacker de Processos · DevOps Alquimista · Autômato da Nova Era"
 ```
 
 ---
 
-```bash
-# echo "[🧠 Sobre Mim]"
+## 🧠 Sobre Mim
+
 > A automação é o feitiço moderno. E eu? Apenas um bruxo com acesso root.
 
-🔹 Automatização de Workflows (n8n · Node-RED · Make.com)
-🔹 Engenharia de Prompt para IA conversacional e RAG
-🔹 DevOps com Docker · Traefik · Caddy · CI/CD · Portainer
-🔹 Especialista em Telecomunicações e Redes (BGP · Mikrotik · Zabbix)
-🔹 APIs ocultas, Webhooks, sistemas obscuros
-🔹 Criação de Personagens Virtuais Inteligentes com memória
-🔹 Estudante de Cibersegurança, Reversing & Automações silenciosas
+🔹 Orquestração de Workflows com **n8n**, **Node-RED** e **Make.com**  
+🔹 Engenharia de Prompt com foco em IA conversacional, RAG e LangChain  
+🔹 Infraestrutura DevOps com **Docker**, **Traefik**, **Caddy**, **CI/CD** e **Portainer**  
+🔹 Especialista em Redes e Telecomunicações (**BGP**, **Mikrotik**, **Zabbix**)  
+🔹 Manipulação de **APIs ocultas**, webhooks e integrações sob medida  
+🔹 Criação de **personagens virtuais com memória vetorial e semântica**  
+🔹 Estudante autodidata de Cibersegurança, Reversing e Automação Silenciosa  
 
-
-
-```
 <p align="center">
-  <img src="./assets/sobre_mim.gif" alt="Demonstração do Plano Artístico">
+  <img src="./assets/sobre_mim.gif" alt="Plano Artístico" width="600"/>
 </p>
 
 ---
 
-```bash
-# echo "[🛠️ Stacks & Ferramentas]"
-```
+## 🛠️ Stacks & Ferramentas
 
 ```bash
-⚙️ DevOps:     Docker · Caddy · Traefik · Git · Linux · CI/CD
-🕸️ Automação:  n8n · Node-RED · Python · Postgres · HTTP Nodes
-📡 Telecom:    Mikrotik · Zabbix · Grafana · SNMP · BGP
-🧠 IA:         OpenAI · LangChain · RAG · pgvector · Prompt Engineering
-🧰 Front:      Tailwind · React · Astro · JS para integração de painéis
-
-
+# echo "Ferramentas encantadas em meu grimório:"
 ```
+
+| Categoria       | Ferramentas Mágicas |
+|----------------|---------------------|
+| **DevOps**      | Docker · Git · CI/CD · Linux · Portainer · Caddy · Traefik |
+| **Automação**   | n8n · Node-RED · Python · PostgreSQL · HTTP Nodes |
+| **Telecom**     | Mikrotik · Zabbix · Grafana · SNMP · BGP |
+| **IA & RAG**    | OpenAI · LangChain · pgvector · Prompt Engineering |
+| **Frontend**    | Tailwind · React · Astro · JS para dashboards |
+
 <p align="center">
-  <img src="./assets/teste.gif" >
-</p>
----
-
-```bash
-# echo "[📡 Monitorando o invisível...]"
-> Conectando containers. Analisando logs. Invocando workflows noturnos...
-
-
-```
-
----
-
-```bash
-# echo "[🌐 Chamados do Éter]"
-> Conjurações privadas sob demanda. Repositórios públicos são apenas fragmentos.
-
-Site (em breve): bruxoanony.dev  
-Mensagens: via invocação direta.  
-
-```
-<p align="center">
-  <img src="./assets/teste22.gif" >
-</p>
-
-
-```
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                                  
-                                                                                                                  
-                                                              ;++;:.                                              
-                                                          X&&$XxxX$&&&&;                                          
-                                                        XX.  ..::..  ;X&&&;                                       
-                                                       $x   ...::...    ;&&&+                                     
-                                                      x&     ..::..    .; .$&&+                                   
-                                                     +&    .:::::.::.   .X. .X&&+  $&&.                           
-                                                    :&:   . ..:::::.    .;&&X .x&&&:.:&;                          
-                                                    &x    ....::::....    x&&&$....$&&x&.                         
-                                                   $&     ..:::.::.:..   ..&&X&&&$&& .&&&.                        
-                                                  x&;        .::::..:;;;;:.+&X ;&&:    X&&;                       
-                                                  &X    ...:::::::::.....;X&&&           .;:                      
-                                                 x&:  ...:::::.::::::::..  .;&x                                   
-                                                 &&  .:;;+++++;;;;+++++;;:. .&&                                   
-                                               +&&&&&$Xx;;::::::::::::;;xX$&&&&&+                                 
-                                           X&&&&X:   .....::.:::::::::......  :X$&&&$.                            
-                                       X&&&X:.   ....::::::.::..:.::.::::::....    :X&&&X                         
-                                   ;&&&$: .  ...::::::::::::::::::::::.:::::::::...    :$&&&;                     
-                                X&&&+             ........:::::::::::.........             +&&&X                  
-                             ;&&&&&&&&&&&&&&&&&&&$Xx;                      :xX$&&&&&&&&&&&&&&&&&&&;               
-                             &&X&&&&&&&&&XXXX&+ ;&&&+.    ;$&&&&&&&&$;    .+&&&; +&XXXX&&&&&&&&&X&&               
-                             &&;$&&&&&&$$&XXX&   +x  .XX;      &&.     ;XX.  x+   &XXX&$$&&&&&&$;&&               
-                              &&;;$&&$X$XXXX&X    $  .Xx.:;&&&.  .&&&;:.xX:  $    X&XXXX$X$&&&;;&&                
-                               X&&X;;X&&&&&&$    XX    :Xx;+&&x  +&&x;xX:    XX    $&&&&&&X;;X&&X                 
-                                 ;&&&&X;:.;&  ; :&       :XX+X;  :X+XX:       &; ;  &;.:;X&&&&;                   
-                                     +X&&&&  X. ;$           :    :           $; .X  &&&&X+                       
-                                         X. :x  x&:       X;+      +;X       .&X  x; .X                           
-                                        X; :X  .xX&;    .$            $.    ;&X+.  X; ;X                          
-                                        & :&   & .&$&   $$ .XX;  ;XX: $$   $$&: &   &: &.                         
-                                       x$&&   x$  +&&$&&&X            X&&&$&&+  $x   &&$x                         
-                                       ; $;  X.&               ;+               $.X  ;$ :                         
-                                        ;X  X  &;            +&XX&+            :&  X  $+                          
-                                        $: X    x&+.    .;Xx        xX;.    .+&x    X :&                          
-                                        XX&;    .$  ;;X    .+X$$$$X+.    X;;  $.    :&XX                          
-                                          &  .   &     X+&X          X&+X     &   .  &                            
-                                          & X    $;     .              .     ;$    X &                            
-                                          &$&  &  &                          &  &  &$&                            
-                                          X+. ;&; &&;X                    X;&& :&; :;X                            
-                                             X&;&.$X&&                    &&X&.&;$X                               
-                                             :$  && $;$.;              ;.X+X &&  $;                               
-                                                      $&&  ;        ;  &&$                                        
-                                                        ;&&&        &&&;                                          
-                                                         &.&&      && &                                           
-                                                            &&    &&                                              
-                                                             .$&&$                                                
-                                                                                                                  
-                                                                                                                  
-                                                                                                        
-                                                                                                    
-                                                                                                    
-
-```
-<p align="center">
-  <img src="./assets/teste.gif" >
+  <img src="./assets/teste.gif" width="600" />
 </p>
 
 ---
+
+## 📡 Monitorando o Invisível
+
+```bash
+# tail -f /var/log/magia.log
+> Conectando containers... Analisando logs... Invocando workflows noturnos...
+```
+
+---
+
+## 🌐 Chamados do Éter
+
+```bash
+# whois bruxoanony.dev
+> Consultas privadas sob demanda. Meus repositórios públicos são apenas fragmentos de algo maior.
+```
+
+- 🔗 Site (em breve): [bruxoanony.dev](https://bruxoanony.dev)  
+- 📬 Mensagens: via invocação direta (ou GitHub Issues)
+
+<p align="center">
+  <img src="./assets/teste22.gif" width="600"/>
+</p>
+
+---
+
+## 🧙‍♂️ Filosofia
 
 ```bash
 # exit
-> Código é magia. Terminal é altar.
+> O terminal é meu altar. O código, minha oferenda.
 ```
+
+> 🔒 *A verdadeira magia está em automatizar o que os olhos não veem.*
