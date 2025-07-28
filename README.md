@@ -60,9 +60,7 @@
 
 
 ```
-<p align="center">
-  <img src="./assets/teste22.gif" >
-</p>
+
 ---
 
 ```bash
@@ -74,7 +72,7 @@ Mensagens: via invocação direta.
 
 ```
 <p align="center">
-  <img src="./assets/terminal_mistico.gif" >
+  <img src="./assets/teste22.gif" >
 </p>
 
 
