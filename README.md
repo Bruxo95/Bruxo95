@@ -89,3 +89,7 @@
 ```
 
 > 🔒 *A verdadeira magia está em automatizar o que os olhos não veem.*
+
+<p align="center">
+  <img src="./assets/teste3.gif" width="150" height="150"/>
+</p>
