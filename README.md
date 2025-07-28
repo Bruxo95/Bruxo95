@@ -31,7 +31,7 @@
 🔹 Estudante autodidata de Cibersegurança, Reversing e Automação Silenciosa  
 
 <p align="center">
-  <img src="./assets/sobre_mim.gif" alt="Plano Artístico" width="600"/>
+  <img src="./assets/sobre_mim.gif" alt="Plano Artístico" width="150" height="150"/>
 </p>
 
 ---
@@ -51,7 +51,7 @@
 | **Frontend**    | Tailwind · React · Astro · JS para dashboards |
 
 <p align="center">
-  <img src="./assets/teste.gif" width="600" />
+  <img src="./assets/teste.gif" width="150" height="150" />
 </p>
 
 ---
@@ -76,7 +76,7 @@
 - 📬 Mensagens: via invocação direta (ou GitHub Issues)
 
 <p align="center">
-  <img src="./assets/teste22.gif" width="600"/>
+  <img src="./assets/teste22.gif" width="150" height="150"/>
 </p>
 
 ---
