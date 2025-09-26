@@ -72,7 +72,7 @@
 > Consultas privadas sob demanda. Meus repositórios públicos são apenas fragmentos de algo maior.
 ```
 
-- 🔗 Site (em breve): [bruxoanony.dev](https://bruxoanony.dev)  
+- 🔗 Site https://www.bruxo.dev 
 - 📬 Mensagens: via invocação direta (ou GitHub Issues)
 
 <p align="center">
